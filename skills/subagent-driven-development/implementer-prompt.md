@@ -38,6 +38,9 @@ Task tool (general-purpose):
 
     Work from: [directory]
 
+    This directory is an isolated git worktree. All git operations (commit, branch, etc.)
+    happen here. Do not create additional worktrees.
+
     **While you work:** If you encounter something unexpected or unclear, **ask questions**.
     It's always OK to pause and clarify. Don't guess or make assumptions.
 
